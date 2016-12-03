@@ -9,6 +9,8 @@ summary(Laliga)
 
 
 
+
+
 #Graphical Rep of categorical data
 
 barplot(table(Laliga$HomeTeam),ylim = c(0,60),
