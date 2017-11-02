@@ -23,6 +23,6 @@ Data from 3 different files were merged into a single larger file. Performed fea
 ## Final observations
 * Real Madrid and FC Barcelona performed similarly in "Home" games.
 * FC Barcelona scored more goals in Home matches than Real Madrid. 
-* When two teams tie with points by the end of the season, winner will be determined by the net number of goals scored against each other and other teams.So in this case, Barcelona would win the league even if Real Madrid levelled the points.
+* When two teams tie with points by the end of the season, winner will be determined by the net number of goals scored against each other and other teams. So in this case, Barcelona would win the league even if Real Madrid levelled the points.
 * FC Barcelona has more number of "Away" wins compared to Real Madrid which is the main reason why they won the league.
-* Real Madrid performed well against the teams that come from southern part of spain. This might be because of the weather conditions that they must endure during their trip towards north. 
+* Real Madrid performed well against the teams that come from southern part of Spain. This might be because of the weather conditions that they must endure during their trip towards north. 
